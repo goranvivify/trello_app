@@ -1,0 +1,24 @@
+{
+    "board": {
+        "qa": "QA",
+        "qaId": 15578701815,
+        "inProgress": "IN PROGRESS",
+        "inProgressId": 41765457135,
+        "done": "DONE",
+        "doneId": 15063719686,
+        "toDo": "TO DO",
+        "toDoId": 9183513731
+    },
+    "list": {
+        "newList": "Active list",
+        "newListId": 1424242363
+    },
+    "task": {
+        "intercepting": "Intercepting",
+        "interceptingId": 32136124247,
+        "changingParts": "Changing parts of response data",
+        "changingPartsId": 80202027259,
+        "stubbing": "Stubbing network responses",
+        "stubbingId": 33696467845
+    }
+}
